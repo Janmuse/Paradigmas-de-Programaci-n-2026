@@ -1,5 +1,3 @@
-package org.example;
-
 import java.awt.print.Printable;
 
 public class Utils {
@@ -40,3 +38,4 @@ public class Utils {
         }
     }
 }
+
